@@ -1,0 +1,13 @@
+{
+  "name": "CuyRest",
+  "short_name": "CREST",
+  "author": "Rizsyad AR",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Simple Rest Client",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {},
+  "permissions": ["tabs"]
+}
